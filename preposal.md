@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-I would like to do something wiht x code and making an app but i dont have an idea of what to do 
+I would like to do something with x code and making an app but i dont have an idea of what to do 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
