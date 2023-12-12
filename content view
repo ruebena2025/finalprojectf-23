@@ -1,0 +1,36 @@
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        //NavigationView{
+            //VStack{
+                Text("Fall2023")
+                //NavigationLink(destination: view
+            
+       
+            VStack{
+                Image("schoolhat")
+                    .resizable()
+                    .cornerRadius(15)
+                    .aspectRatio(contentMode:.fit)
+                    .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+                Text("How has your semester went? ")
+                
+                    .font(.subheadline)
+            }
+            Button("Fall 2023"){
+                
+            }
+                   
+            }
+        
+        
+    }
+
+struct ContentView_Previews: PreviewProvider {
+            
+            static var previews: some View {
+                ContentView()
+            }
+    }
+        
