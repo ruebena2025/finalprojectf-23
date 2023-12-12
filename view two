@@ -1,0 +1,21 @@
+import SwiftUI
+
+struct view_two: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+struct view_two_Previews: PreviewProvider {
+    static var previews: some View {
+        view_two()
+    }
+}
+
+// create section for each component
+// class name , rating out of 5 , review , comment section for others
+
+
+//IH1
+//Rating:3/5
+//Review: overall not a bad course to taken especially given that it is mandatory. Readings were often hard to follow and often time hard to get started on essay since topics were so broad. It being asynchronous also was a positive and negative experience for me as well.
